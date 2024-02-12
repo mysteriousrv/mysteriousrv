@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @mysteriousrv
-- 👀 I’m interested in c++ & AI
-- 🌱 I’m currently learning c++ & DSA(B.tech 2nd year student)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ritvijverma18@gmail.com
 
