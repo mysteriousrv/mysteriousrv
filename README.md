@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ritvijvermarv
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ritvijverma18@gmail.com
 
 <!---
