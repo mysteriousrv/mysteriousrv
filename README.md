@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/mysteriousrv/mysteriousrv/blob/main/image.png?raw=true" alt="Cover Image" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Ritvij Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
